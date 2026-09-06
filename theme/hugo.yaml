@@ -12,7 +12,7 @@ params:
   markmap:
     version: 0.18.12
   mermaid:
-    version: 11.17.0
+    version: 11.17.2
   redoc:
     version: 2.5.3
 
